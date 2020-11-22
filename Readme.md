@@ -34,7 +34,7 @@ That's it! You can now start working in this repo: make changes, commit them, th
 
 - For managing large data files in this repo, read howtos/UsefulGitTips.md. You can use git lfs to tell git to track specific files or folders differently to avoid the repository getting too large.
 
-- For handling jupyter notebooks which can be tricky to version control, read howtos/ManagingNotebooks.md. We propose that you track .html and .py files rather than .ipynb files, and jupyter_notebook_config.py has been provided to make this easier.
+- For handling jupyter notebooks which can be tricky to version control, read howtos/ManagingNotebooks.md. We propose that you track .html and .py files as well as .ipynb files, and jupyter_notebook_config.py has been provided to make this easier.
 
 
 ## Folder structure
