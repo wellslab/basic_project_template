@@ -25,7 +25,7 @@ Primarily designed for new students and those new to version control, this repos
     
     Login to github and go to github.com/wellslab and create a new repo, calling it the same as in step 2. Then you tell your local repo what your origin will be:
     ```
-    > git remote add origin https://github.com/wellslab/dc_atlas.git
+    > git remote add origin git@github.com:wellslab/dc_atlas.git
     ```
     
 That's it! You can now start working in this repo: make changes, commit them, then push them to github. Don't forget to replace this readme with one more appropriate for your own project too.

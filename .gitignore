@@ -1,5 +1,6 @@
 # Ignore jupyter notebook files - ensure alternative tracking is set
 *.ipynb
+.ipynb_checkpoints/
 
 # Generate this file from git lfs command rather than track
 *.gitattributes
