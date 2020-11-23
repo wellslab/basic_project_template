@@ -5,3 +5,5 @@ Jupyter notebook files are binary and not very suited for git tracking (see this
 ```
 
 After that, whenever you save your notebook, it will automatically create .html and .py files, which you can track with git.
+
+Note that this method is creating a global config for all your notebooks - ie. this script will run for all your notebook saves regardless of which repo the notebook is in.
