@@ -54,3 +54,6 @@ You can change the subfolders in this project in any way you want, but for begin
 * received/
 
     Contains data files which often act as inputs to programs you write. These may be downloaded from websites or received by email. Subfolders here can be used to distinguish the different sources. For example, we may want to have a subfolder called "GEO" here for files downloaded from GEO website, and another called "Paul" for files received from Paul. It's good practise to record where each file came from, as this can easily be forgotten later and it can put much work downstream in doubt when you're not sure where the input files originate.
+
+
+### Originally created by [Jarny](http://github.com/jarny), 2020.
